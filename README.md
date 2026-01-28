@@ -1,3 +1,7 @@
+**🌍 Languages / Sprachen / Diller:** [🇩🇪 Deutsch](#) | [🇺🇸 English](README_EN.md) | [🇹🇷 Türkçe](README_TR.md)
+
+---
+
 # Hallo, ich bin Kerem Sinan Özel! 👋
 
 **Full Stack Developer | Web & Mobile Entwicklungs-Enthusiast**
@@ -35,9 +39,9 @@ Hallo! Ich bin Kerem, ein Full Stack Developer, der sich ständig in der Tech-We
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gs235&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Keremoezel&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gs235&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keremoezel&layout=compact&theme=vue-dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -45,7 +49,7 @@ Hallo! Ich bin Kerem, ein Full Stack Developer, der sich ständig in der Tech-We
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gs235&theme=vue-dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keremoezel&theme=vue-dark&hide_border=true&background=0d1117)
 
 </div>
 
@@ -77,6 +81,6 @@ Wenn Sie über meine Projekte sprechen, zusammenarbeiten oder einfach nur Hallo 
 
 ⭐ **Vergessen Sie nicht, die Projekte zu markieren, die Ihnen gefallen!**
 
-![Profile views](https://komarev.com/ghpvc/?username=gs235&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
+![Profile views](https://komarev.com/ghpvc/?username=Keremozel&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
 
 </div>
