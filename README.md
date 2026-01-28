@@ -49,7 +49,15 @@ Hallo! Ich bin Kerem, ein Full Stack Developer, der sich ständig in der Tech-We
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Keremoezel&theme=vue-dark&hide_border=true&background=0d1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Keremoezel&theme=vue-dark&hide_border=true&background=0d1117)
+
+</div>
+
+## 📈 Aktivitäts-Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Keremoezel&theme=vue&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -71,7 +79,7 @@ Projekte, die Sie in meinen Repositories finden können:
 
 Wenn Sie über meine Projekte sprechen, zusammenarbeiten oder einfach nur Hallo sagen möchten:
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gs235)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Keremoezel)
 
 ---
 
@@ -81,6 +89,6 @@ Wenn Sie über meine Projekte sprechen, zusammenarbeiten oder einfach nur Hallo 
 
 ⭐ **Vergessen Sie nicht, die Projekte zu markieren, die Ihnen gefallen!**
 
-![Profile views](https://komarev.com/ghpvc/?username=Keremoezel&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
+![Profile views](https://komarev.com/ghpvc/?username=Keremozel&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
 
 </div>
