@@ -81,6 +81,6 @@ Wenn Sie über meine Projekte sprechen, zusammenarbeiten oder einfach nur Hallo 
 
 ⭐ **Vergessen Sie nicht, die Projekte zu markieren, die Ihnen gefallen!**
 
-![Profile views](https://komarev.com/ghpvc/?username=Keremozel&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
+![Profile views](https://komarev.com/ghpvc/?username=Keremoezel&color=blueviolet&style=flat-square&label=Profil+Aufrufe)
 
 </div>
